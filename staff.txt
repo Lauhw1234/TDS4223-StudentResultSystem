@@ -1,0 +1,3 @@
+AD001|Dr. Tan Wei Ming|admin123|Computer Science|Senior Lecturer|N/A|N/A
+AD002|Mr. Lim Chee Keong|admin123|Software Engineering|Lecturer|N/A|N/A
+AD003|Ms. Nurul Ain|admin123|Data Science|Coordinator|N/A|N/A

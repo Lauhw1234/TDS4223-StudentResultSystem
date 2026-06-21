@@ -1,0 +1,219 @@
+1|S0000|CSC101|Data Structure and Algorithms|47|D|3|1
+2|S0000|CSC102|Database Systems|96|A|3|1
+3|S0000|CSC201|Data Mining|86|A|3|1
+4|S0001|CSC102|Database Systems|61|B-|3|1
+5|S0001|CSC201|Data Mining|81|A|3|1
+6|S0001|CSC202|Mobile App Development|42|E|3|1
+7|S0001|CSC301|Operating Systems|89|A|3|1
+8|S0002|CSC201|Data Mining|95|A|3|1
+9|S0002|CSC202|Mobile App Development|93|A|3|1
+10|S0002|CSC301|Operating Systems|51|C|3|1
+11|S0002|CSC302|Software Engineering|69|B|4|1
+12|S0002|CSC401|Web Programming|98|A|3|1
+13|S0003|CSC202|Mobile App Development|99|A|3|1
+14|S0003|CSC301|Operating Systems|82|A|3|1
+15|S0003|CSC302|Software Engineering|51|C|4|1
+16|S0004|CSC301|Operating Systems|78|A-|3|1
+17|S0004|CSC302|Software Engineering|54|C|4|1
+18|S0004|CSC401|Web Programming|74|B+|3|1
+19|S0004|CSC402|Artificial Intelligence|72|B+|3|1
+20|S0005|CSC302|Software Engineering|51|C|4|1
+21|S0005|CSC401|Web Programming|68|B|3|1
+22|S0005|CSC402|Artificial Intelligence|47|D|3|1
+23|S0005|CSC501|Computer Networks|87|A|3|1
+24|S0005|CSC502|Cloud Computing|50|C|3|1
+25|S0006|CSC401|Web Programming|96|A|3|1
+26|S0006|CSC402|Artificial Intelligence|68|B|3|1
+27|S0006|CSC501|Computer Networks|83|A|3|1
+28|S0007|CSC402|Artificial Intelligence|67|B|3|1
+29|S0007|CSC501|Computer Networks|100|A|3|1
+30|S0007|CSC502|Cloud Computing|66|B|3|1
+31|S0007|CSC101|Data Structure and Algorithms|63|B-|3|1
+32|S0008|CSC501|Computer Networks|48|D|3|1
+33|S0008|CSC502|Cloud Computing|46|D|3|1
+34|S0008|CSC101|Data Structure and Algorithms|100|A|3|1
+35|S0008|CSC102|Database Systems|96|A|3|1
+36|S0008|CSC201|Data Mining|97|A|3|1
+37|S0009|CSC502|Cloud Computing|81|A|3|1
+38|S0009|CSC101|Data Structure and Algorithms|56|C+|3|1
+39|S0009|CSC102|Database Systems|100|A|3|1
+40|S0010|CSC101|Data Structure and Algorithms|95|A|3|1
+41|S0010|CSC102|Database Systems|89|A|3|1
+42|S0010|CSC201|Data Mining|42|E|3|1
+43|S0010|CSC202|Mobile App Development|68|B|3|1
+44|S0011|CSC102|Database Systems|84|A|3|1
+45|S0011|CSC201|Data Mining|90|A|3|1
+46|S0011|CSC202|Mobile App Development|76|A-|3|1
+47|S0011|CSC301|Operating Systems|80|A|3|1
+48|S0011|CSC302|Software Engineering|98|A|4|1
+49|S0012|CSC201|Data Mining|48|D|3|1
+50|S0012|CSC202|Mobile App Development|76|A-|3|1
+51|S0012|CSC301|Operating Systems|62|B-|3|1
+52|S0013|CSC202|Mobile App Development|46|D|3|1
+53|S0013|CSC301|Operating Systems|53|C|3|1
+54|S0013|CSC302|Software Engineering|92|A|4|1
+55|S0013|CSC401|Web Programming|77|A-|3|1
+56|S0014|CSC301|Operating Systems|42|E|3|1
+57|S0014|CSC302|Software Engineering|98|A|4|1
+58|S0014|CSC401|Web Programming|42|E|3|1
+59|S0014|CSC402|Artificial Intelligence|70|B+|3|1
+60|S0014|CSC501|Computer Networks|95|A|3|1
+61|S0015|CSC302|Software Engineering|86|A|4|1
+62|S0015|CSC401|Web Programming|54|C|3|1
+63|S0015|CSC402|Artificial Intelligence|88|A|3|1
+64|S0016|CSC401|Web Programming|75|A-|3|1
+65|S0016|CSC402|Artificial Intelligence|40|E|3|1
+66|S0016|CSC501|Computer Networks|78|A-|3|1
+67|S0016|CSC502|Cloud Computing|57|C+|3|1
+68|S0017|CSC402|Artificial Intelligence|81|A|3|1
+69|S0017|CSC501|Computer Networks|74|B+|3|1
+70|S0017|CSC502|Cloud Computing|83|A|3|1
+71|S0017|CSC101|Data Structure and Algorithms|74|B+|3|1
+72|S0017|CSC102|Database Systems|94|A|3|1
+73|S0018|CSC501|Computer Networks|91|A|3|1
+74|S0018|CSC502|Cloud Computing|76|A-|3|1
+75|S0018|CSC101|Data Structure and Algorithms|68|B|3|1
+76|S0019|CSC502|Cloud Computing|95|A|3|1
+77|S0019|CSC101|Data Structure and Algorithms|60|B-|3|1
+78|S0019|CSC102|Database Systems|91|A|3|1
+79|S0019|CSC201|Data Mining|95|A|3|1
+80|S0020|CSC101|Data Structure and Algorithms|80|A|3|1
+81|S0020|CSC102|Database Systems|61|B-|3|1
+82|S0020|CSC201|Data Mining|41|E|3|1
+83|S0020|CSC202|Mobile App Development|49|D|3|1
+84|S0020|CSC301|Operating Systems|60|B-|3|1
+85|S0021|CSC102|Database Systems|54|C|3|1
+86|S0021|CSC201|Data Mining|43|E|3|1
+87|S0021|CSC202|Mobile App Development|68|B|3|1
+88|S0022|CSC201|Data Mining|62|B-|3|1
+89|S0022|CSC202|Mobile App Development|60|B-|3|1
+90|S0022|CSC301|Operating Systems|54|C|3|1
+91|S0022|CSC302|Software Engineering|69|B|4|1
+92|S0023|CSC202|Mobile App Development|43|E|3|1
+93|S0023|CSC301|Operating Systems|82|A|3|1
+94|S0023|CSC302|Software Engineering|74|B+|4|1
+95|S0023|CSC401|Web Programming|40|E|3|1
+96|S0023|CSC402|Artificial Intelligence|61|B-|3|1
+97|S0024|CSC301|Operating Systems|96|A|3|1
+98|S0024|CSC302|Software Engineering|53|C|4|1
+99|S0024|CSC401|Web Programming|93|A|3|1
+100|S0025|CSC302|Software Engineering|98|A|4|1
+101|S0025|CSC401|Web Programming|69|B|3|1
+102|S0025|CSC402|Artificial Intelligence|100|A|3|1
+103|S0025|CSC501|Computer Networks|95|A|3|1
+104|S0026|CSC401|Web Programming|69|B|3|1
+105|S0026|CSC402|Artificial Intelligence|98|A|3|1
+106|S0026|CSC501|Computer Networks|50|C|3|1
+107|S0026|CSC502|Cloud Computing|89|A|3|1
+108|S0026|CSC101|Data Structure and Algorithms|95|A|3|1
+109|S0027|CSC402|Artificial Intelligence|65|B|3|1
+110|S0027|CSC501|Computer Networks|82|A|3|1
+111|S0027|CSC502|Cloud Computing|74|B+|3|1
+112|S0028|CSC501|Computer Networks|77|A-|3|1
+113|S0028|CSC502|Cloud Computing|59|C+|3|1
+114|S0028|CSC101|Data Structure and Algorithms|68|B|3|1
+115|S0028|CSC102|Database Systems|99|A|3|1
+116|S0029|CSC502|Cloud Computing|67|B|3|1
+117|S0029|CSC101|Data Structure and Algorithms|93|A|3|1
+118|S0029|CSC102|Database Systems|83|A|3|1
+119|S0029|CSC201|Data Mining|83|A|3|1
+120|S0029|CSC202|Mobile App Development|87|A|3|1
+121|S0030|CSC101|Data Structure and Algorithms|49|D|3|1
+122|S0030|CSC102|Database Systems|66|B|3|1
+123|S0030|CSC201|Data Mining|65|B|3|1
+124|S0031|CSC102|Database Systems|82|A|3|1
+125|S0031|CSC201|Data Mining|76|A-|3|1
+126|S0031|CSC202|Mobile App Development|50|C|3|1
+127|S0031|CSC301|Operating Systems|98|A|3|1
+128|S0032|CSC201|Data Mining|42|E|3|1
+129|S0032|CSC202|Mobile App Development|91|A|3|1
+130|S0032|CSC301|Operating Systems|52|C|3|1
+131|S0032|CSC302|Software Engineering|81|A|4|1
+132|S0032|CSC401|Web Programming|61|B-|3|1
+133|S0033|CSC202|Mobile App Development|54|C|3|1
+134|S0033|CSC301|Operating Systems|98|A|3|1
+135|S0033|CSC302|Software Engineering|70|B+|4|1
+136|S0034|CSC301|Operating Systems|60|B-|3|1
+137|S0034|CSC302|Software Engineering|57|C+|4|1
+138|S0034|CSC401|Web Programming|84|A|3|1
+139|S0034|CSC402|Artificial Intelligence|96|A|3|1
+140|S0035|CSC302|Software Engineering|96|A|4|1
+141|S0035|CSC401|Web Programming|40|E|3|1
+142|S0035|CSC402|Artificial Intelligence|46|D|3|1
+143|S0035|CSC501|Computer Networks|87|A|3|1
+144|S0035|CSC502|Cloud Computing|60|B-|3|1
+145|S0036|CSC401|Web Programming|67|B|3|1
+146|S0036|CSC402|Artificial Intelligence|41|E|3|1
+147|S0036|CSC501|Computer Networks|59|C+|3|1
+148|S0037|CSC402|Artificial Intelligence|96|A|3|1
+149|S0037|CSC501|Computer Networks|96|A|3|1
+150|S0037|CSC502|Cloud Computing|78|A-|3|1
+151|S0037|CSC101|Data Structure and Algorithms|82|A|3|1
+152|S0038|CSC501|Computer Networks|70|B+|3|1
+153|S0038|CSC502|Cloud Computing|63|B-|3|1
+154|S0038|CSC101|Data Structure and Algorithms|58|C+|3|1
+155|S0038|CSC102|Database Systems|76|A-|3|1
+156|S0038|CSC201|Data Mining|99|A|3|1
+157|S0039|CSC502|Cloud Computing|71|B+|3|1
+158|S0039|CSC101|Data Structure and Algorithms|64|B-|3|1
+159|S0039|CSC102|Database Systems|50|C|3|1
+160|S0040|CSC101|Data Structure and Algorithms|88|A|3|1
+161|S0040|CSC102|Database Systems|43|E|3|1
+162|S0040|CSC201|Data Mining|48|D|3|1
+163|S0040|CSC202|Mobile App Development|85|A|3|1
+164|S0041|CSC102|Database Systems|87|A|3|1
+165|S0041|CSC201|Data Mining|61|B-|3|1
+166|S0041|CSC202|Mobile App Development|74|B+|3|1
+167|S0041|CSC301|Operating Systems|70|B+|3|1
+168|S0041|CSC302|Software Engineering|48|D|4|1
+169|S0042|CSC201|Data Mining|81|A|3|1
+170|S0042|CSC202|Mobile App Development|67|B|3|1
+171|S0042|CSC301|Operating Systems|46|D|3|1
+172|S0043|CSC202|Mobile App Development|62|B-|3|1
+173|S0043|CSC301|Operating Systems|63|B-|3|1
+174|S0043|CSC302|Software Engineering|86|A|4|1
+175|S0043|CSC401|Web Programming|58|C+|3|1
+176|S0044|CSC301|Operating Systems|83|A|3|1
+177|S0044|CSC302|Software Engineering|86|A|4|1
+178|S0044|CSC401|Web Programming|95|A|3|1
+179|S0044|CSC402|Artificial Intelligence|93|A|3|1
+180|S0044|CSC501|Computer Networks|96|A|3|1
+181|S0045|CSC302|Software Engineering|47|D|4|1
+182|S0045|CSC401|Web Programming|87|A|3|1
+183|S0045|CSC402|Artificial Intelligence|58|C+|3|1
+184|S0046|CSC401|Web Programming|69|B|3|1
+185|S0046|CSC402|Artificial Intelligence|40|E|3|1
+186|S0046|CSC501|Computer Networks|42|E|3|1
+187|S0046|CSC502|Cloud Computing|45|D|3|1
+188|S0047|CSC402|Artificial Intelligence|94|A|3|1
+189|S0047|CSC501|Computer Networks|100|A|3|1
+190|S0047|CSC502|Cloud Computing|41|E|3|1
+191|S0047|CSC101|Data Structure and Algorithms|45|D|3|1
+192|S0047|CSC102|Database Systems|97|A|3|1
+193|S0048|CSC501|Computer Networks|90|A|3|1
+194|S0048|CSC502|Cloud Computing|82|A|3|1
+195|S0048|CSC101|Data Structure and Algorithms|41|E|3|1
+196|S0049|CSC502|Cloud Computing|87|A|3|1
+197|S0049|CSC101|Data Structure and Algorithms|45|D|3|1
+198|S0049|CSC102|Database Systems|80|A|3|1
+199|S0049|CSC201|Data Mining|52|C|3|1
+200|S0050|CSC101|Data Structure and Algorithms|59|C+|3|1
+201|S0050|CSC102|Database Systems|68|B|3|1
+202|S0050|CSC201|Data Mining|65|B|3|1
+203|S0050|CSC202|Mobile App Development|46|D|3|1
+204|S0050|CSC301|Operating Systems|58|C+|3|1
+205|S0051|CSC102|Database Systems|97|A|3|1
+206|S0051|CSC201|Data Mining|96|A|3|1
+207|S0051|CSC202|Mobile App Development|64|B-|3|1
+208|S0052|CSC201|Data Mining|60|B-|3|1
+209|S0052|CSC202|Mobile App Development|72|B+|3|1
+210|S0052|CSC301|Operating Systems|42|E|3|1
+211|S0052|CSC302|Software Engineering|65|B|4|1
+212|S0053|CSC202|Mobile App Development|74|B+|3|1
+213|S0053|CSC301|Operating Systems|80|A|3|1
+214|S0053|CSC302|Software Engineering|43|E|4|1
+215|S0053|CSC401|Web Programming|63|B-|3|1
+216|S0053|CSC402|Artificial Intelligence|48|D|3|1
+217|S0054|CSC301|Operating Systems|88|A|3|1
+218|S0054|CSC302|Software Engineering|48|D|4|1
+219|S0054|CSC401|Web Programming|51|C|3|1

@@ -1,0 +1,10 @@
+CSC101|Data Structure and Algorithms|3
+CSC102|Database Systems|3
+CSC201|Data Mining|3
+CSC202|Mobile App Development|3
+CSC301|Operating Systems|3
+CSC302|Software Engineering|4
+CSC401|Web Programming|3
+CSC402|Artificial Intelligence|3
+CSC501|Computer Networks|3
+CSC502|Cloud Computing|3

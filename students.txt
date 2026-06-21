@@ -1,0 +1,55 @@
+S0000|Aiman Lee|pass1234|Bachelor of Computer Science|3|9|011000000|aiman0@student.edu.my|22/06/2026
+S0001|Siti bin Ahmad|pass1234|Bachelor of Information Technology|2.8|12|011000037|siti1@student.edu.my|22/06/2026
+S0002|Wei Tan|pass1234|Bachelor of Software Engineering|3.375|16|011000074|wei2@student.edu.my|22/06/2026
+S0003|Mei binti Ismail|pass1234|Bachelor of Data Science|3.2|10|011000111|mei3@student.edu.my|22/06/2026
+S0004|Kumar Wong|pass1234|Bachelor of Computer Science|2.99231|13|011000148|kumar4@student.edu.my|22/06/2026
+S0005|Priya a/l Raman|pass1234|Bachelor of Information Technology|2.375|16|011000185|priya5@student.edu.my|22/06/2026
+S0006|Hafiz Ibrahim|pass1234|Bachelor of Software Engineering|3.66667|9|011000222|hafiz6@student.edu.my|22/06/2026
+S0007|Nur Chua|pass1234|Bachelor of Data Science|3.175|12|011000259|nur7@student.edu.my|22/06/2026
+S0008|Chong Yap|pass1234|Bachelor of Computer Science|2.8|15|011000296|chong8@student.edu.my|22/06/2026
+S0009|Farah binti Hassan|pass1234|Bachelor of Information Technology|3.43333|9|011000333|farah9@student.edu.my|22/06/2026
+S0010|Daniel Goh|pass1234|Bachelor of Software Engineering|2.875|12|011000370|daniel10@student.edu.my|22/06/2026
+S0011|Aisyah a/p Suresh|pass1234|Bachelor of Data Science|3.94375|16|011000407|aisyah11@student.edu.my|22/06/2026
+S0012|Wong Hashim|pass1234|Bachelor of Computer Science|2.46667|9|011000444|wong12@student.edu.my|22/06/2026
+S0013|Lim Loh|pass1234|Bachelor of Information Technology|2.77692|13|011000481|lim13@student.edu.my|22/06/2026
+S0014|Tan Mokhtar|pass1234|Bachelor of Software Engineering|2.55625|16|011000518|tan14@student.edu.my|22/06/2026
+S0015|Rashid Chin|pass1234|Bachelor of Data Science|3.4|10|011000555|rashid15@student.edu.my|22/06/2026
+S0016|Aminah Yusuf|pass1234|Bachelor of Computer Science|2.55|12|011000592|aminah16@student.edu.my|22/06/2026
+S0017|Hong Tee|pass1234|Bachelor of Information Technology|3.72|15|011000629|hong17@student.edu.my|22/06/2026
+S0018|Sze Aziz|pass1234|Bachelor of Software Engineering|3.56667|9|011000666|sze18@student.edu.my|22/06/2026
+S0019|Iqbal Ooi|pass1234|Bachelor of Data Science|3.675|12|011000703|iqbal19@student.edu.my|22/06/2026
+S0020|Lina Lee|pass1234|Bachelor of Computer Science|2.18|15|011000740|lina20@student.edu.my|22/06/2026
+S0021|Faiz bin Ahmad|pass1234|Bachelor of Information Technology|1.83333|9|011000777|faiz21@student.edu.my|22/06/2026
+S0022|Mariam Tan|pass1234|Bachelor of Software Engineering|2.63077|13|011000814|mariam22@student.edu.my|22/06/2026
+S0023|Goh binti Ismail|pass1234|Bachelor of Data Science|2.26875|16|011000851|goh23@student.edu.my|22/06/2026
+S0024|Yusof Wong|pass1234|Bachelor of Computer Science|3.2|10|011000888|yusof24@student.edu.my|22/06/2026
+S0025|Hana a/l Raman|pass1234|Bachelor of Information Technology|3.76923|13|011000925|hana25@student.edu.my|22/06/2026
+S0026|Vincent Ibrahim|pass1234|Bachelor of Software Engineering|3.4|15|011000962|vincent26@student.edu.my|22/06/2026
+S0027|Kavi Chua|pass1234|Bachelor of Data Science|3.43333|9|011000999|kavi27@student.edu.my|22/06/2026
+S0028|Suresh Yap|pass1234|Bachelor of Computer Science|3.25|12|011001036|suresh28@student.edu.my|22/06/2026
+S0029|Zainab binti Hassan|pass1234|Bachelor of Information Technology|3.8|15|011001073|zainab29@student.edu.my|22/06/2026
+S0030|Adam Goh|pass1234|Bachelor of Software Engineering|2.33333|9|011001110|adam30@student.edu.my|22/06/2026
+S0031|Diana a/p Suresh|pass1234|Bachelor of Data Science|3.425|12|011001147|diana31@student.edu.my|22/06/2026
+S0032|Eric Hashim|pass1234|Bachelor of Computer Science|2.725|16|011001184|eric32@student.edu.my|22/06/2026
+S0033|Fiona Loh|pass1234|Bachelor of Information Technology|3.12|10|011001221|fiona33@student.edu.my|22/06/2026
+S0034|Grace Mokhtar|pass1234|Bachelor of Software Engineering|3.17692|13|011001258|grace34@student.edu.my|22/06/2026
+S0035|Hassan Chin|pass1234|Bachelor of Data Science|2.5375|16|011001295|hassan35@student.edu.my|22/06/2026
+S0036|Irfan Yusuf|pass1234|Bachelor of Computer Science|1.93333|9|011001332|irfan36@student.edu.my|22/06/2026
+S0037|Joyce Tee|pass1234|Bachelor of Information Technology|3.925|12|011001369|joyce37@student.edu.my|22/06/2026
+S0038|Kelly Aziz|pass1234|Bachelor of Software Engineering|3.2|15|011001406|kelly38@student.edu.my|22/06/2026
+S0039|Leon Ooi|pass1234|Bachelor of Data Science|2.66667|9|011001443|leon39@student.edu.my|22/06/2026
+S0040|Maya Lee|pass1234|Bachelor of Computer Science|2.375|12|011001480|maya40@student.edu.my|22/06/2026
+S0041|Nabil bin Ahmad|pass1234|Bachelor of Information Technology|2.74375|16|011001517|nabil41@student.edu.my|22/06/2026
+S0042|Olivia Tan|pass1234|Bachelor of Software Engineering|2.66667|9|011001554|olivia42@student.edu.my|22/06/2026
+S0043|Putri binti Ismail|pass1234|Bachelor of Data Science|3.00769|13|011001591|putri43@student.edu.my|22/06/2026
+S0044|Qistina Wong|pass1234|Bachelor of Computer Science|4|16|011001628|qistina44@student.edu.my|22/06/2026
+S0045|Ravi a/l Raman|pass1234|6|2.29|10|011001665|ravi45@student.edu.my|22/06/2026
+S0046|Salma Ibrahim|pass1234|Bachelor of Software Engineering|1.25|12|011001702|salma46@student.edu.my|22/06/2026
+S0047|Tariq Chua|pass1234|Bachelor of Data Science|2.7|15|011001739|tariq47@student.edu.my|22/06/2026
+S0048|Umar Yap|pass1234|Bachelor of Computer Science|2.83333|9|011001776|umar48@student.edu.my|22/06/2026
+S0049|Vera binti Hassan|pass1234|Bachelor of Information Technology|2.75|12|011001813|vera49@student.edu.my|22/06/2026
+S0050|Wati Goh|pass1234|Bachelor of Software Engineering|2.32|15|011001850|wati50@student.edu.my|22/06/2026
+S0051|Xin a/p Suresh|pass1234|Bachelor of Data Science|3.56667|9|011001887|xin51@student.edu.my|22/06/2026
+S0052|Yasmin Hashim|pass1234|Bachelor of Computer Science|2.42308|13|011001924|yasmin52@student.edu.my|22/06/2026
+S0053|Zack Loh|pass1234|Bachelor of Information Technology|2.1875|16|011001961|zack53@student.edu.my|22/06/2026
+S0054|Arif Mokhtar|pass1234|Bachelor of Software Engineering|2.2|10|011001998|arif54@student.edu.my|22/06/2026
